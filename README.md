@@ -1,2 +1,0 @@
-# LearnTodoLists
-Created with CodeSandbox
